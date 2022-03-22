@@ -11,7 +11,7 @@ A Dictionary application with local database build for iOS environment.
 
 
 
-<h2>Implementtion</h2>
+<h2>Implementation</h2>
 This application is build using swift for iOS devices as a part of final year project during my bachelorette.
 
 <h2>Steps Involved</h2>
