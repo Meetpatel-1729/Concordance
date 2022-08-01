@@ -27,7 +27,7 @@ This application is build using swift for iOS devices as a part of final year pr
 
   <img src = "https://user-images.githubusercontent.com/70450861/159561748-312045ff-cd1f-4fee-aaca-5f8d97a8a096.png" width="300" height="500" /></li>
 
-<li>Included application icon and app store icon for rich fill
+<li>Included application icon and app store icon for rich feel
 
 <h2>Next Steps</h2>
 <li>Make it more user-friendly (i.e. Rich UI, More words)
