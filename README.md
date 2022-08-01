@@ -17,7 +17,7 @@ This application is build using swift for iOS devices as a part of final year pr
 <h2>Steps Involved</h2>
 <li>Researched about the application (As at that time there were very few iOS application dictionarry which was offline) and got approval from professor
 <li>Gathered the resources and things to work on (Online tutorials)
-<li>Learned UI interfaces and mulitple view controllers
+<li>Learned UI interfaces and multiple view controllers
 <li>Used local databse which gives the user to search for a word offline
 <li>Included 200(+) words with it's synonyms
 
